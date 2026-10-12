@@ -69,12 +69,6 @@ The Personal Finance Management System is an application developed using Java Sw
 ### Budget
 ![Budget Page](images/budget.png)
 
-## Installation
-1. Clone the repository.
-2. Open the project in Apache NetBeans.
-3. Set up the MySQL database according to the provided schema.
-   - Navigate to the `database_setup` folder and follow the instructions in the `README.md` file to set up the database.
-4. Run the project.
 
 ## Usage
 1. Sign up for an account or log in if you already have one.
